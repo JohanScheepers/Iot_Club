@@ -42,8 +42,9 @@ To install Node.js, follow these steps, which are generally applicable across Wi
     node -v
     npm -v
     ```
-You should see version numbers for both node and npm (Node Package Manager). If you do, you're good to go!
-    ![](./images/nodejs_v.PNG)
+You should see version numbers for both node and npm (Node Package Manager). If you do, you're good to go.
+
+![](./images/nodejs_v.PNG)
 
 #### Step 2: Install and Run Node-RED
 With Node.js and npm in place, installing Node-RED is a single command.
@@ -63,14 +64,14 @@ Once the installation is complete, you can start the Node-RED server with a simp
 node-red
 ```
 
-  ![](./images/node_red_start.PNG)
+![](./images/node_red_start.PNG)
 
 - **Access the Editor**
 When Node-RED starts, you will see a bunch of log messages, including a line that tells you the server is running.
     - Look for the line that says: Server now running at http://127.0.0.1:1880/ (or http://localhost:1880/
 
      - Open your web browser and navigate to that address.
-     ![](./images/node_red_ui.PNG)
+![](./images/node_red_ui.PNG)
 
 
 Congratulations! You are now looking at the Node-RED flow editor, ready to start dragging, dropping, and wiring up your first automation flow.
