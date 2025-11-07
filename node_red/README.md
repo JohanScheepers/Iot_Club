@@ -87,3 +87,13 @@ By the end of this course, you will be fluent in Node-RED and ready to build rea
 - Best Practices: Flow organisation, naming conventions, and error handling (using the Catch node).
 
 - Deployment & Scaling (Optional): Basic concepts of running Node-RED in production (e.g., persistence, security).
+
+
+## Hardware need for Course
+
+|Hardware   |Cost   |
+|-----------|-------|
+|[Raspberry PI](https://www.pishop.co.za/store/raspberry-pi_0/raspberry-pi4-model-b-4gb-redwhite-official-case-essentials-kit-boxed-white-power-supply)|R1,599.54    |
+|[Screen](https://www.pishop.co.za/store/displays/raspberry-pi-touch-display-2-5-portrait)  |R799.91    |
+|Total   |R2399.45    |
+
