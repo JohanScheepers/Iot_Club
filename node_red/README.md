@@ -24,7 +24,7 @@ By the end of this course, you will be fluent in Node-RED and ready to build rea
 
 
 
-#### Module 1: [Fundamentals and Your First Flow](./node_red/Fundamentals.md)
+#### Module 1: [Fundamentals and Your First Flow](./Fundamentals.md)
 
 - Introduction to Node-RED: What is it? History, use cases (IoT, automation, data integration), and the low-code philosophy.
 
