@@ -12,7 +12,7 @@ This course is designed to take you from a curious beginner to a confident Node-
 ## Course Summary: Skills You Will Gain
 
 
-Module Focus	|Core Skill Acquisition	|Practical Outcomes
+|Module Focus	|Core Skill Acquisition	|Practical Outcomes
 |---------------|-----------------------|------------------|
 |Fundamentals    |Understanding the Node-RED environment and flow-based programming concepts.    | Installing Node-RED, navigating the editor, and creating your very first working flow.|
 |Core Processing    | Mastering the structure of the message object (msg) and core logic nodes. | Routing data conditionally, filtering, delaying, and transforming messages to perform specific tasks.|
